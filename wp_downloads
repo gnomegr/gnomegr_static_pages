@@ -1,0 +1,47 @@
+<h2>Δοκιμάστε την τελευταία έκδοση του GNOME</h2>
+<p class="main_header">Μπορείτε να δοκιμάσετε το GNOME 3 χωρίς να το κάνετε μόνιμη εγκατάσταση στον υπολογιστή σας.Αυτό γίνεται με τις live εικόνες,όπου υπάρχουν εκδόσεις για CD/DVD ή ακόμα και για το USB στικάκι σας.
+</p>
+</br>
+<p><a class="action_button" href="http://download.gnome.org/misc/promo-usb/gnome-3.12.iso" target="_blank">Λήψη εικόνας</a></p>
+</br>
+<p>Για να τρέξετε το GNOME 3 από ένα USB stick:</p>
+<ul>
+<li>Τοποθετήστε στον υπολογιστή σας το USB stick.</li>
+<li>Από ένα τερματικό εκτελέστε <code><strong>dmesg</strong></code>,θα εμφανιστεί η διαδρομή του αποθηκευτικού χώρου όπως <code><strong>sdb</strong></code> </li>
+<li>Για να γράψετε την εικόνα εκτελέστε: <code><strong>sudo dd if=GNOME-3.12.iso of=/dev/DRIVE bs=8M conv=fsync</strong></code>,όπου DRIVE η παραπάνω διαδρομή</li>
+<li>Για να εκτελέστε την εικόνα live, κάντε επανεκκίνηση τον υπολογιστή σας με το USB stick σας συνδεδεμένο</li>
+</ul>
+<hr class="top_shadow"/>
+
+
+<h2>Διανομές</h2>
+<p class="main_header">Το GNOME είναι διαθέσιμο για εγκατάσταση από αρκετές διανομές GNU/Linux.Αρκετές σας προσφέρουν και τη δυνατότητα να το δοκιμάσετε χωρίς να το εγκαταστήσετε.</p>
+
+<div class="grid_4 alpha"><h3><a href="https://fedoraproject.org/" target="_blank">Fedora Project</a></h3>Το GNOME είναι προεπιλεγμένο στο Fedora,απλώς εγκαταστήστε το ή δοκιμάστε το.
+</div>
+
+<div class="grid_4"><h3><a href="http://www.ubuntu.com/" target="_blank">Ubuntu GNOME</a></h3>To Ubuntu GNOME σας παρέχει μια ολοκληρωμένη εμπειρία χρήσης του GNOME στο Ubuntu <a href="http://ubuntugnome.org/download/" target="_blank">με ένα κλικ</a>!
+</div>
+
+<div class="grid_4 omega"><h3><a href="http://software.opensuse.org/113/en">openSUSE</a></h3>Μπορείτε να δοκιμάσετε και να επιλέξετε το GNOME,στην τελευταία έκδοση του <a href="http://www.opensuse.org/" target="_blank">openSUSE</a>.
+</br>
+</div>
+<p>Πολλές άλλες διανομές περιλαμβάνουν το GNOME 3,όπως το <a href="http://www.debian.org/" target="_blank">Debian</a> και <a href="https://www.archlinux.org/" target="_blank">Arch</a></p>
+
+<hr class="top_shadow"/>
+
+<h2>Μεταγλώττιση από τον πηγαίο κώδικα</h2>
+
+<p class="main_header">Τα αποθετήρια Git του GNOME σας παρέχουν τη δυνατότητα να χτίσετε το GNOME.Έχετε πάντα τη τελευταία έκδοση του GNOME,με τα modules που έχετε επιλέξει εσείς.</p>
+
+<p>Αν είστε ικανός και υπομονετικός και επιθυμείτε να χτίσετε το GNOME από πηγαίο κώδικα, σας συστήνουμε να χρησιμοποιήσετε το JHBuild.Η εφαρμογή αυτή είναι σχεδιασμένη να χτίζει την τελευταία έκδοση GNOME από το Git.</p>
+
+
+Για περισσότερεες πληροφορίες και λεπτομέρειες δείτε:
+<ul>
+<li><a href="http://git.gnome.org/">Αποθετήριο Git του GNOME</a></li>
+<li><a href="https://live.gnome.org/Jhbuild" target="_blank">Αρχική σελίδα του JHBuild</a></li>
+<li>
+<a href="http://developer.gnome.org/jhbuild/stable/index.html.el" target="_blank">Εγχειρίδιο του JHBuild</a></li>
+</li></li>
+</ul>

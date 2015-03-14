@@ -1,116 +1,143 @@
-<div style="margin-left:80px; text-align:center;">
-<div class="subtle_greybox grid_3 alpha" style="margin:10px"><a style="text-decoration: none;" href="#register">Εγγραφή χρήστη</a></div>
-<div class="subtle_greybox grid_3" style="margin:10px;"><a style="text-decoration: none;" href="#translate">Βήματα μετάφρασης</a></div>
-<div class="subtle_greybox grid_3 omega" style="margin:10px;"><a style="text-decoration: none;" href="#bugs">Aναφορά σφαλμάτων</a></div>
+<div style="margin-left: 100px; text-align: center;">
+<div class="grid_3 alpha" style="margin: 10px;">
+
+<a style="text-decoration: none;" href="#register"><img src="http://gnome.gr/wp-content/uploads/2014/04/user_register.png" alt="translation_tools_icon" width="96px" height="96px" />Εγγραφή χρήστη</a>
+
+&nbsp;
+
 </div>
+<div class="grid_3" style="margin: 10px;">
 
+<a style="text-decoration: none;" href="#translate"><img src="http://gnome.gr/wp-content/uploads/2014/04/translation_steps.png" alt="translation_tools_icon" width="96px" height="96px" />Βήματα μετάφρασης</a>
+
+&nbsp;
+
+</div>
+<div class="grid_3 omega" style="margin: 10px;">
+
+<a style="text-decoration: none;" href="#bugs"><img src="http://gnome.gr/wp-content/uploads/2014/04/translation_bug.png" alt="translation_bug_icon" width="96px" height="96px" />Aναφορά σφαλμάτων</a>
+
+&nbsp;
+
+</div>
+</div>
 <div class="clear"></div>
-
 <p class="main_header">H ελληνική ομάδα του GNOME με ευχαρίστηση δέχεται νέες συμμετοχές στην προσπάθεια της να παρουσιάζεται η κάθε καινούρια έκδοση του GNOME πλήρης όσο αφορά την ελληνική υποστήριξη.</p>
-</br>
-<p>Υπάρχουν βέβαια και άλλα πεδία δράσης που μπορεί κάποιος να συμμετάσχει,όπως:</p> 
+Υπάρχουν βέβαια και άλλα πεδία δράσης εκτός των μεταφράσεων που μπορεί κάποιος να συμμετάσχει,όπως:
 <ul>
-<li>η κατασκευή και η συντήρηση του ιστοτόπου <a href="http://www.gnome.gr">gnome.gr</a>,</li>
-<li>η συγγραφή κειμένων προώθησης του GNOME,</li>
-<li>ο σχεδιασμός artwork,</li>
-<li>η αναφορά σφαλμάτων κτλ.</li>
+	<li>η συγγραφή κειμένων προώθησης του GNOME στην ιστοσελίδα μας,</li>
+	<li>ο σχεδιασμός artwork για παρουσιάσεις, release parties, συνέδρια κ.λπ,</li>
+	<li>ο έλεγχος των μεταφράσεων και η <a href="http://gnome.gr/contribute/#bugs">αναφορά σφαλμάτων</a></li>
 </ul>
+Για αυτό το σκοπό ως πρώτο βήμα επικοινωνίας και συνεργασίας δημιουργήσαμε την λίστα ηλεκτρονικού ταχυδρομείου team-gnome.gr από όπου μπορούν οι νέοι και οι παλιοί συμμετέχοντες να συντονίσουν την δράση τους και να ορίσουν τις εργασίες που πρέπει να γίνουν. Εγγραφείτε λοιπόν στην <a href="http://lists.gnome.gr/listinfo.cgi/team-gnome.gr" target="_blank">λίστα team-gnome.gr</a> και ξεκινήστε την συμμετοχή σας στην κοινότητα του Ελληνικού GNOME.
 
-<p>Για αυτό το σκοπό ως πρώτο βήμα επικοινωνίας και συνεργασίας δημιουργήσαμε την λίστα ηλεκτρονικού ταχυδρομείου team-gnome.gr από όπου μπορούν οι νέοι και οι παλιοί συμμετέχοντες να συντονίσουν την δράση τους και να ορίσουν τις εργασίες που πρέπει να γίνουν. Εγγραφείτε λοιπόν στην <a href="http://lists.gnome.gr/listinfo.cgi/team-gnome.gr" target="_blank">λίστα team-gnome.gr</a> και ξεκινήστε την συμμετοχή σας στην κοινότητα του Ελληνικού GNOME.</p>
+Ως επόμενο βήμα για τον καλύτερο συντονισμό των εργασιών,δημιουργήσαμε ένα χώρο όπου θα λαμβάνει μέρος η ομαδική δουλειά της κοινότητας. Ρίξτε μια ματιά στο <a href="https://github.com/gnomegr" target="_blank">αποθετηρίο</a> της ελληνικής κοινότητας στο GitHub.
 
-<hr class="bottom_shadow">
+<hr class="bottom_shadow" />
 
-<p class="main_header">Παρακάτω υπάρχει μια γρήγορη επισκόπηση των βημάτων που πρέπει να ακολουθήσουμε όταν μεταφράζουμε ένα πρόγραμμα.</p>
 <a name="register"></a>
-<h2>Μια φορά</h2>
+<h2>Εγγραφή χρήστη</h2>
+&nbsp;
 <ol>
-<li><p>Εγγραφή στην <a href="http://l10n.gnome.org/register/" target="_blank">ιστοσελίδα διαχείρισης των μεταφράσεων του GNOME (Damned Lies)</a></p></li>
-<div><img style="margin-top:15px;" class="subtle_greybox" src="http://gnome.gr/wp-content/uploads/2014/04/translation_register.png" width="920" alt="register_image" /></div>
-
-<li><p>Εγγραφή στην Ελληνική ομάδα μετάφρασης του Gnome (Πηγαίνετε στην προσωπική σας σελίδα με κλικ στο όνομα σας μετά το login, “Join a team" (<em>Γίνετε μέλος μιας ομάδας</em>), Επιλογή της ελληνικής ομάδας, “Join” (<em>Γίνετε μέλος</em>)</p></li>
-
-<div style="margin:20px 105px 0 105px;"><img class="subtle_greybox" src="http://gnome.gr/wp-content/uploads/2014/04/translation_user_settings.png" alt="user_settings_image" />  <img class="subtle_greybox" src="http://gnome.gr/wp-content/uploads/2014/04/translation_join.png" alt="join_team_image" /></div>
-
-<li>Eγγραφή στην λίστα ταχυδρομείου <a href="http://lists.gnome.gr/listinfo.cgi/team-gnome.gr" target="blank">team@gnome.gr</a></li>
-<li>Eγκατάσταση και ρύθμιση εργαλείου μετάφρασης [προαιρετικά, οι μεταφράσεις μπορούν να γίνουν και με απλό επεξεργαστή κειμένου]</li>
+<ol>
+	<li>Εγγραφή στην <a href="http://l10n.gnome.org/register/" target="_blank">ιστοσελίδα διαχείρισης των μεταφράσεων του GNOME (Damned Lies)</a></li>
+</ol>
+</ol>
+<div><img class="subtle_greybox" style="margin-top: 15px;" src="http://gnome.gr/wp-content/uploads/2014/04/translation_register.png" alt="register_image" width="920" /></div>
+<ol>
+<ol>
+	<li>Εγγραφή στην Ελληνική ομάδα μετάφρασης του Gnome (Πηγαίνετε στην προσωπική σας σελίδα με κλικ στο όνομα σας μετά το login, “Join a team" (<em>Γίνετε μέλος μιας ομάδας</em>), Επιλογή της ελληνικής ομάδας, “Join” (<em>Γίνετε μέλος</em>)</li>
+</ol>
+</ol>
+<div style="margin: 20px 105px 0 105px;"><img class="subtle_greybox" src="http://gnome.gr/wp-content/uploads/2014/04/translation_user_settings.png" alt="user_settings_image" /> <img class="subtle_greybox" src="http://gnome.gr/wp-content/uploads/2014/04/translation_join.png" alt="join_team_image" /></div>
+<ol>
+	<li>Eγγραφή στην λίστα αλληλογραφίας <a href="http://lists.gnome.gr/listinfo.cgi/team-gnome.gr" target="blank">team@gnome.gr</a></li>
+	<li>Eγκατάσταση και ρύθμιση εργαλείου μετάφρασης [προαιρετικά, οι μεταφράσεις μπορούν να γίνουν και με απλό επεξεργαστή κειμένου]</li>
 </ol>
 
-<hr class="bottom_shadow">
+<hr class="bottom_shadow" />
+
 <a name="translate"></a>
+<h2>Βήματα μετάφρασης</h2>
+&nbsp;
 <p class="main_header">Πριν επιλέξετε κάποιο αρχείο για μετάφραση,θα ήταν χρήσιμο να κάνετε εγκατάσταση κάποιο μεταφραστικό εργαλείο όπως επίσης να διαβάσετε και τις συμβουλές μετάφρασης.</p>
 
-<div style="margin-top:35px; text-align:center;">
-<div class="grid_2 alpha"><a style="text-decoration: none;" href="http://wiki.gnome.gr/doku.php?id=translation:translationtips" target="_blank"><img src="http://gnome.gr/wp-content/uploads/2014/04/translation_tips.png"  width="96px" height="96px" alt="translation_tips_icon" />Συμβουλές μετάφρασης</a></div>
-
-<div class="grid_2"><a style="text-decoration: none;" href="http://wiki.gnome.gr/doku.php#%CE%BF%CE%B4%CE%B7%CE%B3%CE%BF%CE%AF_%CF%81%CF%8D%CE%B8%CE%BC%CE%B9%CF%83%CE%B7%CF%82_%CE%BC%CE%B5%CF%84%CE%B1%CF%86%CF%81%CE%B1%CF%83%CF%84%CE%B9%CE%BA%CF%8E%CE%BD_%CE%B5%CF%81%CE%B3%CE%B1%CE%BB%CE%B5%CE%AF%CF%89%CE%BD" target="_blank"><img src="http://gnome.gr/wp-content/uploads/2014/04/translation_tools.png" width="96px" height="96px" alt="translation_tools_icon" />Εργαλεία για μετάφραση</a></div>
-
+<div style="margin-top: 35px; text-align: center;">
+<div class="grid_2 alpha"><a style="text-decoration: none;" href="http://wiki.gnome.gr/doku.php?id=translation:translationtips" target="_blank"><img src="http://gnome.gr/wp-content/uploads/2014/04/translation_tips.png" alt="translation_tips_icon" width="96px" height="96px" />Συμβουλές μετάφρασης</a></div>
+<div class="grid_2"><a style="text-decoration: none;" href="http://wiki.gnome.gr/doku.php?id=translation:tools" target="_blank"><img src="http://gnome.gr/wp-content/uploads/2014/04/translation_tools.png" alt="translation_tools_icon" width="96px" height="96px" />Εργαλεία για μετάφραση</a></div>
 <div class="grid_2"><a style="text-decoration: none;" href="http://wiki.gnome.gr/doku.php?id=translation:files"><img src="http://gnome.gr/wp-content/uploads/2014/04/translation_structure.png" alt="translation_structure_icon" width="96px" height="96px" />Μορφή αρχείων μεταφράσης</a></div>
-
-<div class="grid_2 "><a style="text-decoration: none;" href="http://wiki.gnome.gr/doku.php?id=translation:docshots"><img src="http://gnome.gr/wp-content/uploads/2014/04/translate_images.png" width="96px" height="96px" alt="translation_images_icon" />Μετάφραση εικόνων</a></div>
-
-<div class="grid_2"><a style="text-decoration: none;" href="http://wiki.gnome.gr/doku.php?id=translation:terms" target="_blank"><img src="http://gnome.gr/wp-content/uploads/2014/04/translation_list.png" width="96px" height="96px" alt="translation_list_icon" /> Λίστα φράσεων & όρων</a></div>
-
+<div class="grid_2 "><a style="text-decoration: none;" href="http://wiki.gnome.gr/doku.php?id=translation:docshots"><img src="http://gnome.gr/wp-content/uploads/2014/04/translate_images.png" alt="translation_images_icon" width="96px" height="96px" />Μετάφραση εικόνων</a></div>
+<div class="grid_2"><a style="text-decoration: none;" href="http://gnome.gr/glossary/"><img src="http://gnome.gr/wp-content/uploads/2014/04/translation_list.png" alt="translation_list_icon" width="96px" height="96px" /> Λίστα φράσεων &amp; όρων (γλωσσάρι)</a></div>
 <div class="grid_2 omega"><a style="text-decoration: none;" href="http://wiki.gnome.gr/doku.php?id=translation:translationmemory" target="_blank"><img src="http://gnome.gr/wp-content/uploads/2014/04/translation_memory.png" alt="translation_memory_icon" width="96px" height="96px" />Μεταφραστική μνήμη</a></div>
 </div>
-
 <div class="clear"></div>
-<hr>
-<h2>Σε κάθε μετάφραση</h2>
+
+<hr />
+
+<h3>Σε κάθε μετάφραση</h3>
+<p class="main_header">Παρακάτω υπάρχει μια γρήγορη επισκόπηση των βημάτων που πρέπει να ακολουθήσουμε όταν μεταφράζουμε ένα πρόγραμμα.</p>
+
 <ol>
-<li> <a href="http://l10n.gnome.org/languages/el" target="_blank">Eπιλογή έκδοσης για μετάφραση</a></li>
-<li>Λήψη πακέτου μετάφρασης</li>
-<img class="subtle_greybox" style="margin-top:15px;" src="http://gnome.gr/wp-content/uploads/2014/04/translation_download_file.png" alt="download_file_image" />
-<li>Ανακοίνωση έναρξης μετάφρασης του πακέτου. Συνδεθειτε στη σελίδα από την οποία κατεβάσατε το πακέτο, επιλέξτε Action → Reserve for translation → Submit (<em>Ενέργεια → Ανάληψη για μετάφραση → Υποβολή</em>).</li>
-<img class="subtle_greybox" style="margin-top:15px;" src="http://gnome.gr/wp-content/uploads/2014/04/translation_reserve.png" width="920px" alt="reserver_translation_image" />
-<li>Eφαρμογή <a href="http://wiki.gnome.gr/doku.php?id=translation:translationmemory" target="_blank">μεταφραστικής μνήμης</a> [προαιρετικά, βοηθάει στα εντελώς αμετάφραστα πακέτα]</li>
-<li>Mετάφραση του πακέτου</li>
-<li>Αποστολή του αρχείου. Επιλέξτε το πακέτο από τη λίστα της σελίδας <a href="http://l10n.gnome.org/languages/el" target="_blank">Στατιστικών μετάφρασης του GNOME</a>, και μετά επιλέξτε Action → Upload the new translation (<em>Ενέργεια → Ανέβασμα της μετάφρασης</em>), αφήστε ένα σχόλιο, επιλέξτε στο File το αρχείο po που μεταφράσατε και πατήστε Submit (<em>Υποβολή</em>) [απαιτείται login].</li>
-<img class="subtle_greybox" style="margin-top:15px;" src="http://gnome.gr/wp-content/uploads/2014/04/translation_upload_file.png" width="920px alt="upload_file_image" />
-<li>Η μετάφραση σας θα ελεγχθεί από έναν από τους ελεγκτές της ομάδας για τυχόν λάθη και θα καταχωρηθεί στο σύστημα.</li>
-<li>Θα σας απαντήσουν σε σύντομο χρονικό διάστημα. Στην σπάνια περίπτωση που δεν έχετε απάντηση σε διάστημα μιας εβδομάδας, στείλτε ξανά μια ερώτηση στην λίστα.</li>
+<ol>
+	<li><a href="http://l10n.gnome.org/languages/el" target="_blank">Eπιλογή έκδοσης για μετάφραση</a></li>
+	<li>Λήψη πακέτου μετάφρασης</li>
 </ol>
+</ol>
+<img class="subtle_greybox" style="margin-top: 15px;" src="http://gnome.gr/wp-content/uploads/2014/04/translation_download_file.png" alt="download_file_image" />
+<ol>
+<ol>
+	<li>Ανακοίνωση έναρξης μετάφρασης του πακέτου. Συνδεθειτε στη σελίδα από την οποία κατεβάσατε το πακέτο, επιλέξτε Action → Reserve for translation → Submit (<em>Ενέργεια → Ανάληψη για μετάφραση → Υποβολή</em>).</li>
+</ol>
+</ol>
+<img class="subtle_greybox" style="margin-top: 15px;" src="http://gnome.gr/wp-content/uploads/2014/04/translation_reserve.png" alt="reserver_translation_image" width="920px" />
+<ol>
+<ol>
+	<li>Eφαρμογή <a href="http://wiki.gnome.gr/doku.php?id=translation:translationmemory" target="_blank">μεταφραστικής μνήμης</a> [προαιρετικά, βοηθάει στα εντελώς αμετάφραστα πακέτα]</li>
+	<li>Mετάφραση του πακέτου με τη <a href="http://gnome.gr/glossary/">χρήση του γλωσσαρίου</a></li>
+	<li>Αποστολή του αρχείου. Επιλέξτε το πακέτο από τη λίστα της σελίδας <a href="http://l10n.gnome.org/languages/el" target="_blank">Στατιστικών μετάφρασης του GNOME</a>, και μετά επιλέξτε Action → Upload the new translation (<em>Ενέργεια → Ανέβασμα της μετάφρασης</em>), αφήστε ένα σχόλιο, επιλέξτε στο File το αρχείο po που μεταφράσατε και πατήστε Submit (<em>Υποβολή</em>) [απαιτείται login].</li>
+</ol>
+</ol>
+<img class="subtle_greybox" style="margin-top: 15px;" src="http://gnome.gr/wp-content/uploads/2014/04/translation_upload_file.png" alt="" width="920px alt=" />
+<ol>
+	<li>Η μετάφραση σας θα ελεγχθεί από έναν από τους ελεγκτές της ομάδας για τυχόν λάθη και θα καταχωρηθεί στο σύστημα.</li>
+	<li>Θα σας απαντήσουν σε σύντομο χρονικό διάστημα. Στην σπάνια περίπτωση που δεν έχετε απάντηση σε διάστημα μιας εβδομάδας, στείλτε ξανά μια ερώτηση στην λίστα.</li>
+</ol>
+<div class="clear"></div>
+<div class="subtle_greybox" style="margin-top: 15px;">
 
+Αν έχετε απορίες σχετικά με τη διαδικασία της μετάφρασης, επικοινωνήστε μαζί μας στη <a href="http://lists.gnome.gr/listinfo.cgi/team-gnome.gr" target="_blank">λίστα αλληλογραφίας</a>.
+
+</div>
 <div class="clear"></div>
 
-<div class="subtle_greybox" style="margin-top:15px;">
-<p>Αν έχετε απορίες σχετικά με τη διαδικασία της μετάφρασης, επικοινωνήστε μαζί μας στη <a href="http://lists.gnome.gr/listinfo.cgi/team-gnome.gr" target="_blank">λίστα ταχυδρομείου</a>.<p>     
-</div>    
+<hr class="bottom_shadow" />
 
-<div class="clear"></div>
-<hr class="bottom_shadow">
+<a name="bugs"></a>
+<h2>Aναφορά σφαλμάτων</h2>
+Αν κάποιος δεν θέλει να ασχοληθεί με την μετάφραση του GNOME, μπορεί να μας βοηθήσει με άλλο τρόπο. Μέσα από την χρήση της επιφάνειας εργασίας, αν διαπιστώσει έστω και ένα μικρό (ή και μεγάλο!) λάθος στις ελληνικές μεταφράσεις τότε μπορεί να προχωρήσει στην αναφορά σφαλμάτος . Οι αναφορές βοηθούν στην γρήγορη διόρθωση σφαλμάτων.
 
-<a name="bugs"></a><h2>Aναφορά σφαλμάτων</h2>
-<p>Αν κάποιος δεν θέλει να ασχοληθεί με την μετάφραση του GNOME, μπορεί να μας βοηθήσει με άλλο τρόπο. Μέσα από την χρήση της επιφάνειας εργασίας, αν διαπιστώσει έστω και ένα μικρό (ή και μεγάλο!) λάθος στις ελληνικές μεταφράσεις τότε μπορεί να προχωρήσει στην αναφορά σφαλμάτος . Οι αναφορές βοηθούν στην γρήγορη διόρθωση σφαλμάτων.</p>
-
-<p>Η αναφορά σφαλμάτων αφορά κάθε είδους πρόβλημα που μπορούμε να συναντήσουμε κατά την διάρκεια χρήσης του GNOME. Πολύ χρήσιμη είναι και η αναφορά μεταφραστικών σφαλμάτων. Από την στιγμή που οι μεταφραστές ενημερωθούν για κάποιο πρόβλημα που δεν γνωρίζαν πριν, έχουν την δυνατότητα να το διορθώσουν.</p>
-
+Η αναφορά σφαλμάτων αφορά κάθε είδους πρόβλημα που μπορούμε να συναντήσουμε κατά την διάρκεια χρήσης του GNOME. Πολύ χρήσιμη είναι και η αναφορά μεταφραστικών σφαλμάτων. Από την στιγμή που οι μεταφραστές ενημερωθούν για κάποιο πρόβλημα που δεν γνωρίζαν πριν, έχουν την δυνατότητα να το διορθώσουν.
 <h3>Σφάλματα που μπορούν αναφερθούν σχετικά με την ελληνική μετάφραση:</h3>
-
 <ul>
-    	<li>Ορθογραφικά λάθη</li>
-    	<li>Συντακτικά λάθη</li>
-    	<li>Θέματα σχετικά με την απόδοση κάποιου όρου/li>
-    	<li>Επισήμανση προγραμμάτων που πρέπει να μεταφραστούν στα ελληνικά</li>
+	<li>Ορθογραφικά λάθη</li>
+	<li>Συντακτικά λάθη</li>
+	<li>Θέματα σχετικά με την απόδοση κάποιου όρου</li>
+	<li>Επισήμανση προγραμμάτων που πρέπει να μεταφραστούν στα ελληνικά</li>
 </ul>
-
 <h3>Πως γίνετε αναφορά μεταφραστικού σφάλματος:</h3>
-
 <ul>
-<li>Σύνδεση ή δημιουργία λογαριασμού στο <a href=" http://bugzilla.gnome.org/" target="_blank">http://bugzilla.gnome.org/</a> (χρειάζεται να δωθεί μια ηλ. διεύθυνση)</li>
-<li><a href="https://bugzilla.gnome.org/enter_bug.cgi?product=l10n&component=Greek%20[el]" title="Αναφορά σφάλματος" target="_blank">Αναφορά σφάλματος σε μετάφραση</a></li>
+	<li>Σύνδεση ή δημιουργία λογαριασμού στο <a href=" http://bugzilla.gnome.org/" target="_blank">http://bugzilla.gnome.org/</a> (χρειάζεται να δωθεί μια ηλ. διεύθυνση)</li>
+	<li><a title="Αναφορά σφάλματος" href="https://bugzilla.gnome.org/enter_bug.cgi?product=l10n&amp;component=Greek%20[el]" target="_blank">Αναφορά σφάλματος σε μετάφραση</a></li>
 </ul>
-
-<p>Σε περίπτωση που δεν λειτουργεί ο σύνδεσμος,προσθέστε χειροκίνητα τα παρακάτω πεδία.</p>
-
+Σε περίπτωση που δεν λειτουργεί ο σύνδεσμος,προσθέστε χειροκίνητα τα παρακάτω πεδία.
 <ul>
-<li>Eπιλογή <strong>“File new bug”</strong>,</li>
-<li>Επιλογή Infrastructure → l10n,</li>
-<li>Επιλογή γλώσσας <strong>Greek[el]</strong> στο πεδίο Component,</li>
-<li>Επιλογή έκδοσης GNOME,</li>
-<li>Τίτλος και περιγραφή του προβλήματος</li></ul>
-
-<p>Αν δεν θέλετε να ακουλουθήσετε την παραπάνω διαδικασία,υπάρχει ακόμα η δυνατότητα αναφοράς μεταφραστικών σφαλμάτων στη λίστα ταχυδρομείου μας:</p>
-	
+	<li>Eπιλογή <strong>“File new bug”</strong>,</li>
+	<li>Επιλογή Infrastructure → l10n,</li>
+	<li>Επιλογή γλώσσας <strong>Greek[el]</strong> στο πεδίο Component,</li>
+	<li>Επιλογή έκδοσης GNOME,</li>
+	<li>Τίτλος και περιγραφή του προβλήματος</li>
+</ul>
+Αν δεν θέλετε να ακουλουθήσετε την παραπάνω διαδικασία,υπάρχει ακόμα η δυνατότητα αναφοράς μεταφραστικών σφαλμάτων στη λίστα αλληλογραφίας μας:
 <ul>
-<li><a href="http://lists.gnome.gr/listinfo.cgi/team-gnome.gr" target="_blank">Λίστα ταχυδρομείου της κοινότητας μας - teamgnomegr</a> (απαιτείται εγγραφή)</li>
+	<li><a href="http://lists.gnome.gr/listinfo.cgi/team-gnome.gr" target="_blank">Λίστα αλληλογραφίας της κοινότητας μας - teamgnomegr</a> (απαιτείται εγγραφή)</li>
 </ul>

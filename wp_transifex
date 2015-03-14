@@ -1,0 +1,11 @@
+<p>Σελίδα με τα στατιστικά των πακέτων <a href="https://l10n.gnome.org/languages/el/freedesktop-org/ui/" target="_blank">freedesktop.org (non-GNOME)</a> που βρίσκονται στο transifex. Υπάρχει μια ασυμφωνία στα στατιστικά που διατηρεί το Damned lies και το Transifex, με αποτέλεσμα πολλές φορές να γίνεται διπλή δουλειά στη μετάφραση. Η σελίδα λύνει το πρόβλημα αυτό, καθώς ελέγχουμε πρώτα εδώ το ποσοστό ολοκλήρωσης στο transifex και έπειτα στο Damned lies.</p>
+
+[transifex_stats project="accountsservice"]
+[transifex_stats project="avahi"]
+[transifex_stats project="colord"]
+[transifex_stats project="fprintd"]
+[transifex_stats project="p11-kit"]
+[transifex_stats project="packagekit"]
+[transifex_stats project="realmd"]
+[transifex_stats project="shared-mime-info"]
+[transifex_stats project="udisks"]

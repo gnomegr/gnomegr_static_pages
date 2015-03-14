@@ -1,0 +1,70 @@
+<h2>Στιγμιότυπα από όλες τις εκδόσεις του GNOME 3</h2>
+
+Παρακάτω ακολουθούν μερικά στιγμιότυπα με το GNOME <em>(μπορείτε με κλικ στην εικόνα να την δείτε σε κανονικές διαστάσεις).</em>
+
+<h4>Η επιφάνεια εργασίας του Gnome 3.2</h4>
+
+<a href="http://gnome.gr/wp-content/uploads/2011/09/gnome-desktop.png" target="_blank"><img src="http://gnome.gr/wp-content/uploads/2011/09/gnome-desktop.png" alt="" width="940" height="550"/></a>
+
+<h4>Υποστήριξη web εφαρμογών στον epiphany</h4>
+
+<p>Στο GNOME 3.2 ο epiphany έχει τη δυνατότητα δημιουργίας web εφαρμογών.Πατώντας <em>Αρχείο>Save As Web Application</em> σε μια σελίδα δημιουργούμε την web εφαρμογή.Εμφανίζεται κανονικά στη λίστα με όλες μας τις εφαρμογές και μπορούμε να την διαχειριστούμε όπως κάθε εφαρμογή,προσθέτοντας την στα "Αγαπημένα μας".</p>
+
+<a href="http://gnome.gr/wp-content/uploads/2011/09/epiphany.png" target="_blank"><img src="http://gnome.gr/wp-content/uploads/2011/09/epiphany.png" alt="" width="750" height="550" /></a>
+
+<p>Πληκτρολογώντας <em>about:applications</em> έχουμε μια λίστα με τις διαθέσιμες web εφαρμογές μας.</p>
+
+<a href="http://gnome.gr/wp-content/uploads/2011/09/web-apps.png" target="_blank">
+<img src="http://gnome.gr/wp-content/uploads/2011/09/web-apps.png" alt="" width="650" height="550" /></a>
+
+
+<h4>Γρήγορη επισκόπηση των ανοιχτών εφαρμογών πατώντας στις Δραστηριότητες</h4>
+
+<a href="http://gnome.gr/wp-content/uploads/2011/09/gnome-apps.png" target="_blank"><img src="http://gnome.gr/wp-content/uploads/2011/09/gnome-apps.png" alt="" width="940" height="650" /></a>
+
+<h4>Gnome online accounts</h4>
+
+Μια νέα δυνατότητα που μας παρέχει το GNOME 3.2 είναι οι online λογαριασμοί.Στη τωρινή έκδοση έχουμε υποστήριξη μόνο για Google λογαριασμούς και μπορούμε να συγχρονίσουμε:
+<ul>
+	<li><strong>Επαφές</strong> του email με τη νέα εφαρμογή "Επαφές" του GNOME αλλά και με το Empathy</li>
+
+	<li><strong>Αρχεία</strong> του Google Docs με τη νέα εφαρμογή Documents του GNOME</li>
+
+	<li><strong>Emails</strong> με το Evolution</li>
+
+	<li><strong>Εκδηλώσεις</strong> του Google calendar με το ημερολόγιο του Gnome shell.</li>
+</ul>
+
+<h5>Το παράθυρο με τις ρυθμίσεις των online λογαριασμών</h5>
+<a href="http://gnome.gr/wp-content/uploads/2011/09/online-accounts.png" target="_blank"><img src="http://gnome.gr/wp-content/uploads/2011/09/online-accounts.png" alt="" /></a>
+
+<h4>Η εφαρμογή "Επαφές" του Gnome shell</h4>
+Εδώ εμφανίζονται όλες οι επαφές μας από το email που έχουμε ορίσει στους online λογαριασμούς.Στη συνέχεια μπορούμε να επεξεργαστούμε τις επαφές,να προσθέσουμε νέα στοιχεία όπως π.χ Χώρα/Πόλη/Διεύθυνση κατοικίας,ένα δεύτερο email,κάποιον σύνδεσμο (λογαριασμός facebook,twitter του χρήστη).
+
+<a href="http://gnome.gr/wp-content/uploads/2011/09/online-contacts.png" target="_blank">
+<img src="http://gnome.gr/wp-content/uploads/2011/09/online-contacts.png" alt="" /></a>
+
+<h5>Η εφαρμογή "Documents" του Gnome shell</h5>
+Στη συγκεκριμένη εφαρμογή εμφανίζονται τα αρχεία μας από το λογαριασμό που έχουμε στο Google Docs
+
+<a href="http://library.gnome.org/misc/release-notes/3.2/figures/gnome-documents-local.png.en" target="_blank">
+<img src="http://library.gnome.org/misc/release-notes/3.2/figures/gnome-documents-local.png.en" alt="" /></a>
+
+<h5>Sushi - μια εφαρμογή προεπισκόπισης για τον nautilus</h5>
+Με το sushi στο GNOME 3.2 μπουρούμε να κάνουμε προεπισκόπιση οποιοδήποτε αρχείο (εικόνας,κειμένου,ήχου) θέλουμε.Απλά το επιλέγουμε μέσα από τον Nautilus και πατάμε το πλήκτρο Spacebar για να εμφανιστεί το παράθυρο προεπισκόπισης !
+
+<a href="http://gnome.gr/wp-content/uploads/2011/09/sushi.png"><img src="http://gnome.gr/wp-content/uploads/2011/09/sushi.png" alt="" title="sushi" width="440" height="312" class="alignnone size-full wp-image-1023" /></a>
+
+<h5>Ανανεωμένο user menu</h5>
+Έγινε η προσθήκη μιας καθολικής ρύθμισης για την ενεργοποίηση ή όχι των ειδοποιήσεων.
+<a href="http://gnome.gr/wp-content/uploads/2011/09/user-menu.png" target="_blank"><img src="http://gnome.gr/wp-content/uploads/2011/09/user-menu.png" alt="" /></a>
+
+<h4>Προσθήκη νέων ειδοποιήσεων</h4>
+Την έλλειψη ειδοποιήσεων κατά τη σύνδεση των αφαιρούμενων μέσων,ήρθε και κάλυψε το GNOME 3.2 Πλέον κατά την εισαγωγή τους εμφανίζεται η ανάλογη ειδοποίηση.Επίσης στο δεξί κάτω μέρος του notification area βρίσκεται πάντα μια λίστα με τις αφαιρούμενες συσκευές μας !!
+
+<a href="http://gnome.gr/wp-content/uploads/2011/09/removable_devices.png"><img src="http://gnome.gr/wp-content/uploads/2011/09/removable_devices.png" alt="" title="removable_devices" width="551" height="234" class="alignnone size-full wp-image-1022" /></a>
+
+<a href="http://gnome.gr/wp-content/uploads/2011/09/notification.png"><img src="http://gnome.gr/wp-content/uploads/2011/09/notification.png" alt="" title="notification" width="542" height="153" class="alignnone size-full wp-image-1021" /></a>
+
+<h4>Προσθήκη νέων ρυθμίσεων</h4>
+<a href="http://gnome.gr/wp-content/uploads/2011/09/gnome-settings.png" target="_blank"><img src="http://gnome.gr/wp-content/uploads/2011/09/gnome-settings.png" alt="" /></a>
